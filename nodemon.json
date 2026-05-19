@@ -1,0 +1,12 @@
+{
+  "watch": [
+    "src/",
+    "server.js"
+  ],
+  "ext": "js,json",
+  "ignore": [
+    "logs/*",
+    "node_modules/*",
+    "package-lock.json"
+  ]
+}
